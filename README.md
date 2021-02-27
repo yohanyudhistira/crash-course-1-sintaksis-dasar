@@ -1,1 +1,1 @@
-# python-fundamentals
+# python-crash-course-sintaksis-dasar
