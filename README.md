@@ -1,1 +1,1 @@
-# python-crash-course-sintaksis-dasar
+# crash-course-1-sintaksis-dasar
